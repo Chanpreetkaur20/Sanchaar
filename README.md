@@ -54,6 +54,19 @@ PHP Event Management System is a powerful PHP script that offers a secure Event 
 ### Database Files are included in Project. 
 Check the DB folder
 
+### FrontEnd Screenshots
+
+![image](https://github.com/Chanpreetkaur20/Sanchaar/assets/110668044/267b6ec7-cfc5-4522-91e3-eabbe4f07b3a)
+
+![image](https://github.com/Chanpreetkaur20/Sanchaar/assets/110668044/df4140fc-9f3e-4942-9414-54834583b7c5)
+
+![image](https://github.com/Chanpreetkaur20/Sanchaar/assets/110668044/55438fee-ad89-420d-a0df-df2169b00098)
+
+![image](https://github.com/Chanpreetkaur20/Sanchaar/assets/110668044/75d70484-3017-4e62-8c15-3a07d34616e5)
+
+![image](https://github.com/Chanpreetkaur20/Sanchaar/assets/110668044/dbf3d550-97b1-4184-9001-2076c8e8a2d8)
+
+
 ### Author
 
 Chanpreet Kaur
